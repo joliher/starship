@@ -7,7 +7,7 @@ $character '''
 scan_timeout = 10
 
 # Disable the blank line at the start of the prompt
-add_newline = true
+add_newline = false
 
 # Paleta de color personalizada
 palette = 'patata'
